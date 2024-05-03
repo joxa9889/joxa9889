@@ -5,7 +5,7 @@
 <h1></h1>
 
 <div>
-  <img align="right" alt="Coding" src="https://i.pinimg.com/564x/95/39/0b/95390bb2eaac3d60bd4eb5f0bcf5c2b9.jpg">
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/95/39/0b/95390bb2eaac3d60bd4eb5f0bcf5c2b9.jpg">
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=joxa9889&label=Profile%20views&color=0e75b6&style=flat" alt="joxa9889" /> </p>
   
