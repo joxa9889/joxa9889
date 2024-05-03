@@ -1,4 +1,4 @@
-[![JBanner](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)](https://github.com/joxa9889)
+[![JBanner](https://t3.ftcdn.net/jpg/05/91/97/64/360_F_591976463_KMZyV6obpsrN2bJJJkYW0bzoH2XxLTlA.jpg)](https://github.com/joxa9889)
 <h1 align="center">Hi 👋, I'm Javohir Akhmadjonov</h1>
 <h3 align="center">A passionate full-stack developer from Uzbekistan</h3>
 
