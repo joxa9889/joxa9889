@@ -9,8 +9,6 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=joxa9889&label=Profile%20views&color=0e75b6&style=flat" alt="joxa9889" /> </p>
   
-  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-  
   - 🌱 I’m currently learning **FastAPI, C, PyGame, PostgreSQL**
   
   - 👨‍💻 All of my projects are available at my github [https://github.com/joxa9889](https://github.com/joxa9889)
