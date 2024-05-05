@@ -23,6 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://instagram.com/jovohir.jr" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.leetcode.com/joxa2008" target="blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://t.me/joxa1010">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <h1></h1>
 
 <h3 align="left">Languages and Tools:</h3>
