@@ -9,7 +9,7 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=joxa9889&label=Profile%20views&color=0e75b6&style=flat" alt="joxa9889" /> </p>
   
-  - 🌱 I’m currently learning ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) PyGame
+  - 🌱 I’m currently learning ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
   
   - 👨‍💻 All of my projects are available at my github [https://github.com/joxa9889](https://github.com/joxa9889)
   
@@ -47,6 +47,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
 
 
