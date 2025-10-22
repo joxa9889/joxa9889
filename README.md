@@ -54,9 +54,3 @@
 
 
 <h1></h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joxa2008&show_icons=true&locale=en&layout=compact" alt="joxa2008" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joxa2008&show_icons=true&locale=en" alt="joxa2008" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joxa2008&" alt="joxa2008" /></p>
